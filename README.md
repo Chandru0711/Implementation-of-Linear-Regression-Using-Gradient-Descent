@@ -22,7 +22,7 @@ Step 5.End
 ```
 /*
 Program to implement the linear regression using gradient descent.
-Developed by: CHANDRU SN
+Developed by: CHANDRU SM
 RegisterNumber:  212223230034
 */
 ```
